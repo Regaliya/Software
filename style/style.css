@@ -867,7 +867,7 @@ body {
   }
   .main__developer__item {
     margin: 0 auto;
-    width: 325px;
+    width: 200px;
   }
   .main__developer__item__title {
     font-size: 32px;
@@ -887,7 +887,7 @@ body {
   }
   .main__since__item {
     margin: 0 auto;
-    width: 325px;
+    width: 200px;
   }
   .main__since__item__title {
     font-size: 32px;
@@ -911,7 +911,7 @@ body {
   }
   .main__clients__item {
     margin: 0 auto;
-    width: 325px;
+    width: 200px;
   }
   .main__clients__item__title {
     font-size: 32px;
