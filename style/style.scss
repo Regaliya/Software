@@ -786,6 +786,11 @@ body {
     }
 
     .main {
+        
+        &__since {
+            margin: 0 0px 240px;
+        }
+        
         &__item {
             margin: 0 32px 68px;
         }
