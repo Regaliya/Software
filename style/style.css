@@ -594,7 +594,6 @@ body {
 @media (max-width: 1179px) {
   .main__item {
     width: 50%;
-    min-width: 340px;
   }
   .main__img {
     width: 50%;
