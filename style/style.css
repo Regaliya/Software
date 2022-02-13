@@ -757,6 +757,9 @@ body {
             justify-content: space-between;
     background-color: #648CF3;
   }
+  .main__since {
+    margin: 0 0px 240px;
+  }
   .main__item {
     margin: 0 32px 68px;
   }
